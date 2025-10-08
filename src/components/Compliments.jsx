@@ -16,7 +16,8 @@ function Compliments() {
       <h5>K. Amanullah Sahab</h5>
       <h5>B. Ziauddin Ahmed Raza</h5>
       <h5>Shaikh Salam</h5>
-      <h5>R. Mohammed Shareef J. Mohammed Aejaz</h5>
+      <h5>R. Mohammed Shareef</h5>
+      <h5>J. Mohammed Aejaz</h5>
       <h5>Mohammed Javed (Bhiwandi)</h5>
       <h5>R. Shahid Afreed</h5>
       <h5>K. Mohammed. Zubair </h5>
