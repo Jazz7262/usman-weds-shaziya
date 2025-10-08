@@ -5,9 +5,9 @@ import { loadFull } from 'tsparticles';
 import coupleParticlesConfig from '../ts-particles-config-files/couple-particles-config';
 
 function Couple() {
-//  const particlesInit = useCallback(async (engine) => {
-//    await loadFull(engine);
-//  }, []);
+  const particlesInit = useCallback(async (engine) => {
+    await loadFull(engine);
+  }, []);
 
   return (
     <section id="couple">
