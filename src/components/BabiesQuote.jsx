@@ -27,12 +27,7 @@ function BabiesQuote() {
                             src="../assets/images/baby.png"
                             alt="Baby-Avatar"
                         /> */}
-              <h3 className="mt-4 mr-4">--- Muhammad Adnan,</h3>
-              <h3 className="mt-4 mr-4">--- Muhammadi Safa,</h3>
-              <h3 className="mt-4 mr-4">--- Muhammad Hasnain,</h3>
-              <h3 className="mt-4 mr-4">--- Muhammadi Daniya Iram,</h3>
-              <h3 className="mt-4 mr-4">--- Muhammad Arhan,</h3>
-              <h3 className="mt-4 mr-4">--- Muhammad Danish Zain.</h3>
+              <h3 className="mt-4 mr-4">--- Adnan, --- Safa, --- Hasnain, --- Daniya Iram, --- Arhan, --- Danish Zain.</h3>
             </div>
           </div>
 
@@ -49,12 +44,8 @@ function BabiesQuote() {
                             src="../assets/images/baby.png"
                             alt="Baby-Avatar"
                         /> */}
-              <h3 className="mt-4 mr-4">--- Muhammad Ayan,</h3>
-              <h3 className="mt-4 mr-4">--- Muhammadi Rayan,</h3>
-              <h3 className="mt-4 mr-4">--- Muhammadi Alisha,</h3>
-              <h3 className="mt-4 mr-4">--- Muhammadi Affan(Gaus),</h3>
-              <h3 className="mt-4 mr-4">--- Muhammad Shah Zain Ali,</h3>
-              <h3 className="mt-4 mr-4">--- Muhammadi Humera.</h3>
+              <h3 className="mt-4 mr-4">--- Ayan, --- Rayan, --- Alisha, --- Affan(Gaus), --- Shah Zain Ali, --- Humera.</h3>
+              
             </div>
           </div>
         </div>
