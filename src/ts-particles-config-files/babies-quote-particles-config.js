@@ -29,11 +29,11 @@ const babiesQuoteParticlesConfig = {
     particles: {
         color: {
             // value: "#006647",
-            value: "#00664700",
+            value: "#ffffff00",
         },
         links: {
             // color: "#002e20",
-            color: "#002e2000",
+            color: "#ffffff00",
             distance: 100,
             enable: true,
             opacity: 0.4,
