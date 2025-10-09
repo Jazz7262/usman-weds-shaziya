@@ -29,11 +29,11 @@ const coupleParticlesConfig = {
   particles: {
     color: {
       // value: "#006647",
-      value: "#ffffff00",
+      value: "#00664700",
     },
     links: {
       // color: "#002e20",
-      color: "#ffffff00",
+      color: "#002e2000",
       distance: 100,
       enable: true,
       opacity: 0.4,
