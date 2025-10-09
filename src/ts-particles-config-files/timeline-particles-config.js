@@ -29,7 +29,7 @@ const timelineParticlesConfig = {
     particles: {
         color: {
             // value: "#002e20",
-            value: "#ffffff00",
+            value: "#002e2000",
             opacity: 0.4,
         },
         // links: {
